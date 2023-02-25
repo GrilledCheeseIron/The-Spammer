@@ -5,9 +5,10 @@ this is a script that has multiple options and social media where you can spam a
 
 
 -Updates
+v1.2
+-added the shrek script as a spam option
 
 v 1.1
-
 -added the bee movie script spam option
 
 installation:
