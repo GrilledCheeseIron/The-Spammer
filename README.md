@@ -2,7 +2,8 @@
 # The-Spammer
 this is a script that has multiple options and social media where you can spam at
 
-![Capture](https://user-images.githubusercontent.com/118110925/220141096-0ff87439-a69d-48e1-8fd1-1e31a3919ed7.PNG)
+![image](https://user-images.githubusercontent.com/118110925/221364683-037e2c88-afc5-4dd2-b233-1f0432f1021e.png)
+
 
 ============================================================================================
 # Updates
