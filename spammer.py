@@ -2,22 +2,34 @@ import time
 import keyboard
 import pyautogui
 
- 
+print("  ___ _ __   __ _ _ __ ___  _ __ ___   ___ _ __ ")
+print(" / __| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _ \ '__|")
+print(" \__ \ |_) | (_| | | | | | | | | | | |  __/ |   ")
+print(" |___/ .__/ \__,_|_| |_| |_|_| |_| |_|\___|_|   ")
+print("     | |                                        ")
+print("     |_|                                        ")
+print("")
+print("      Made by numbers1234")
+print("https://github.com/numbers1234")
 
+
+
+
+print("")
+print("")
 print("dont type the full option only type the number")
 print("options: ")
 print("1: info/about")
 print("2: tutorial/how to use")
 print("3: whatsapp/instagram")
 print("4: tiktok")
-print("5: youtube")
 
 
 optionsrun = input("on what social media app would you want to run a script or what would you like to see?: ")
 
 if optionsrun == "1":
-    print ("info")
-    print("Made by numbers1234 link: https://github.com/numbers1234")
+    print ("info:")
+    print("")
     print("I made this project for fun and because i like spam bots just i dont want to have 30 difrent projects for the 30 difrent functions.")
     print("so i made this project the spammer")
     print("you can alse see it as a collection of spambots/spammers.")
@@ -25,6 +37,7 @@ if optionsrun == "1":
     print("note: the tiktok and youtube script only works with 1920 x 1080 displa in landscape mode")
 
 if optionsrun == "2":
+    print("")
     print("if you want to stop the programm simply wait for the programm to stop spamming or close the terminal")
     print("if you are going to us the whatsapp/instagram spambot")
     print("1, go to whatsapp on you're browser")
@@ -61,10 +74,11 @@ if optionsrun == "3":
         time.sleep(10)
         wmc = int(wmc)
 
-    for i  in range (wmc):
-        pyautogui.typewrite(wm)
-        pyautogui.press("enter")
-        i = i+1
+        for i  in range (wmc):
+            pyautogui.typewrite(wm)
+            pyautogui.press("enter")
+            i = i+1
+            wmc = int(wmc)
 
     if optionsrunwhatsapp == "3":
         print("go to whatsapp or instagram and wait 10 seconds")
