@@ -42,6 +42,7 @@ if optionsrun == "3":
     print("1, rickroll spam script (spams the lyrics of never gonna give you up) ")
     print("2, normal spam (spams a custom amount of messages and a custom message)")
     print("3, the entire bee movie script")
+    print("4, the entire shrek script")
     optionsrunwhatsapp = input("what script would you like to run? ")
 
     if optionsrunwhatsapp == "1":
@@ -69,6 +70,14 @@ if optionsrun == "3":
         print("go to whatsapp or instagram and wait 10 seconds")
         time.sleep(10)
         f= open("beemoviescript.txt", 'r')
+        for word in f:
+            pyautogui.typewrite(word)
+            pyautogui.press("enter")
+
+    if optionsrunwhatsapp == "4":
+        print("go to whatsapp or instagram and wait 10 seconds")
+        time.sleep(10)
+        f= open("shrek script.txt", 'r')
         for word in f:
             pyautogui.typewrite(word)
             pyautogui.press("enter")
