@@ -5,7 +5,7 @@ this is a script that has multiple options and social media where you can spam a
 ![image](https://user-images.githubusercontent.com/118110925/221364683-037e2c88-afc5-4dd2-b233-1f0432f1021e.png)
 
 
-==================================================================
+
 # Updates
 
 v 1.3
@@ -20,7 +20,7 @@ v 1.1
 
 -added the bee movie script spam option
 
-===================================================================
+
 # installation:
 
 1 download this project and unzip it
