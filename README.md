@@ -28,4 +28,4 @@ v 1.1
 2 in the cmd type 
 pip install -r requirements.txt
 
-3 launch the project and the options will be there
+3 in the cmd type python spammer.py
