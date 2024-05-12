@@ -9,8 +9,8 @@ print(" |___/ .__/ \__,_|_| |_| |_|_| |_| |_|\___|_|   ")
 print("     | |                                        ")
 print("     |_|                                        ")
 print("")
-print("      Made by numbers1234")
-print("https://github.com/numbers1234")
+print("Made by GrilledCheeseIron")
+print("https://github.com/GrilledCheeseIron")
 
 
 
